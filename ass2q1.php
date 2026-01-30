@@ -1,4 +1,5 @@
 <?php
+#Assignment 2
 # Q1 - Write a PHP program to define a user define function that accept two numbers and returns their sum,subtraction,multiplication and division.
 
 #code
