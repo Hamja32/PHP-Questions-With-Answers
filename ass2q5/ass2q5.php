@@ -1,3 +1,7 @@
+<!-- Assignment 2
+ 
+  Question 5 -  Design an HTML form and write  a php script to accept username,password using the post method and display the entered values. -->
+
 <!DOCTYPE html>
 <html>
 
