@@ -5,7 +5,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "my_college"; // Make sure this database exists in phpMyAdmin
+$dbname = "my_college";
 
 // 2. Create Connection
 $conn = new mysqli($servername, $username, $password, $dbname);
