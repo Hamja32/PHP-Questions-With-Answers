@@ -54,7 +54,6 @@ $students = array(
 
         $total = array_sum($marks);
         $average = $total / count($marks);
-
         echo "<tr>";
         echo "<td>$name</td>";
         echo "<td>$marks[0]</td>";
