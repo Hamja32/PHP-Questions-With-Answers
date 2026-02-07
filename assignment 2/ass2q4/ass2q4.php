@@ -42,7 +42,7 @@ $students = array(
     <table>
         <tr>
             <th>Student Name</th>
-            <th>Englihs</th>
+            <th>English</th>
             <th>Hindi</th>
             <th>Maths</th>
             <th>Total</th>
