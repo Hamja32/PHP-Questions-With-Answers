@@ -1,4 +1,4 @@
-This is a slightly more complex project. To keep it manageable but functional, we will split this into **four** parts.
+We will split this into **four** parts.
 
 1. **`setup.sql`**: To create your database table.
 2. **`db.php`**: The shared database connection.
