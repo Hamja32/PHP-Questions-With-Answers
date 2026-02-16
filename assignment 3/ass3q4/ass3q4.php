@@ -47,7 +47,7 @@ $conn->close();
     }
 
     .container {
-        border: 1px solid #f44336;
+        border: 1px solid Black;
         padding: 20px;
         width: 300px;
         background-color: #ffe6e6;
